@@ -1,7 +1,7 @@
 # DeepGCGR
 ##### DeepGCGR: an Interpretable Two-Layer Deep Learning Model for GCGR Antagonist Discovery
 ##### In this study, we developed a two-step deep learning-based model, DeepGCGR, for predicting GCGR ligands and classifying them as agonists or antagonists.
-![框架7](https://github.com/user-attachments/assets/80522815-25e4-4959-ab40-726085bc543f)
+![框架11](https://github.com/user-attachments/assets/c430990b-45d5-4de7-87d1-87188f581041)
 ## Environment
 The model relies on PyTorch 1.8.0 and PyTorch Geometric (pyg) 2.5.2.
 ## Data
