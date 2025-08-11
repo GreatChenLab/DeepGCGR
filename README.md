@@ -1,7 +1,6 @@
 # DeepGCGR
-##### An Interpretable Two-Layer Deep Learning Model for the Discovery of GCGR-Activating Compounds
-##### This work presents DeepGCGR, a two-layer deep learning model that integrates graph-based feature representations with Graph Attention Network (GAT) and Graph Convolutional Network (GCN) architectures to predict compounds with potential agonistic activity toward the GCGR. 
-![框架11](https://github.com/user-attachments/assets/b8779136-a049-48ce-bfda-986739679dfc)
+#### An Interpretable Two-Layer Deep Learning Model for the Discovery of GCGR-Activating Compounds
+#### This work presents DeepGCGR, a two-layer deep learning model that integrates graph-based feature representations with Graph Attention Network (GAT) and Graph Convolutional Network (GCN) architectures to predict compounds with potential agonistic activity toward the GCGR. 
 <img width="8031" height="5905" alt="figure1" src="https://github.com/user-attachments/assets/4e4f2ced-7b73-458d-9967-b5cf135fb928" />
 
 ## Environment
