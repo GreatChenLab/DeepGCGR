@@ -10,7 +10,7 @@
 #### GCGR ligand  classification model dataset（GCGR_C）:
 #### Pre-training：GCGR_C_pre_train.csv；Fine-tuning：GCGR_C_fine_train.csv
 #### Natural products library（T2DM_TCM）：T2DM_TCM.csv
-## Run model
+## Model training and testing
 #### Use the following command to train and test the model：
 ##### Pre-training of the GCGR ligand classification model (C model)：python class_pre_train_main.py
 ##### Fine-tuning of the GCGR ligand classification model (C model)：python class_pre_train_main.py
