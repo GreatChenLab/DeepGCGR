@@ -4,7 +4,7 @@
 <img width="8031" height="5905" alt="figure1" src="https://github.com/user-attachments/assets/4e4f2ced-7b73-458d-9967-b5cf135fb928" />
 
 ## Environment
-#### The model relies on PyTorch 1.8.0, python 3.8.18 and PyTorch Geometric (pyg) 2.5.2.
+#### The model relies on python 3.8.18, PyTorch 1.8.0 and PyTorch Geometric (pyg) 2.5.2.
 ## Data
 #### GCGR ligand activity prediction model dataset（GCGR_P）:
 ##### GCGR_P_train_test.csv
