@@ -15,11 +15,16 @@
 ##### T2DM_TCM.csv
 ## Model training and testing
 #### Use the following command to train and test the model：
-##### Pre-training of the GCGR ligand classification model (C model)：python class_pre_train_main.py
-##### Fine-tuning of the GCGR ligand classification model (C model)：python class_pre_train_main.py
-##### Testing of the GCGR ligand classification model (C model)：python class_test.py
-##### Training of the GCGR ligand activity prediction model (P model)：python pred_main.py
-##### Testing of the GCGR ligand activity prediction model (P model)：python pred_test.py
+##### Pre-training of the GCGR ligand classification model (C model)：
+##### python class_pre_train_main.py
+##### Fine-tuning of the GCGR ligand classification model (C model)：
+##### python class_pre_train_main.py
+##### Testing of the GCGR ligand classification model (C model)：
+##### python class_test.py
+##### Training of the GCGR ligand activity prediction model (P model)：
+##### python pred_main.py
+##### Testing of the GCGR ligand activity prediction model (P model)：
+##### python pred_test.py
 ## Virtual screening
 #### Use the following command to perform virtual screening with the model：
 ##### Predict GCGR ligand activity：python prediction.py
